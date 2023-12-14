@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/health-bot.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.arjunvalluri.healthbot"
     },
     "web": {
       "favicon": "./assets/health-bot.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "750aa723-58dc-4200-9db5-5837ceebed62"
+      }
     }
   }
 }
